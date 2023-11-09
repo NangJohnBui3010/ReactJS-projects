@@ -1,5 +1,5 @@
 import { useState } from "react";
-
+import './tinder_styles.css'
 function TinderRegistration(){
     const [name,setName] = useState("");
     const [age,setAge] = useState({value:"", isTouched:false});
