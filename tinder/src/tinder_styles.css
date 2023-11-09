@@ -1,0 +1,8 @@
+fieldset{
+    border: solid red;
+    background-color: bisque;
+    text-align: center;
+    margin: 15% auto;
+    width: 50%;
+    height: 50%;
+}
