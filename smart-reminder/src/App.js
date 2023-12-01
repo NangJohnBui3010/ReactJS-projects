@@ -70,7 +70,6 @@ function App() {
     <div className="App">
       <header>
         <h1 className = "title">SMART REMINDER</h1>
-        <div className='bounce'>This is bouncing</div>
         <p className = "author-name">created by Nang Bui (John)</p>
       </header>
       <main>
